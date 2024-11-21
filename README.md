@@ -38,17 +38,12 @@ The `LSTM` model is used to generate captions for the images. The model is train
 
 ## Running the project
 
-1. Clone the repository
-```bash 
-git clone https://github.com/tarunganesh2004/Image-Captioning.git
-```
-
-2. Install the requirements
+1. Install the requirements
 ```bash
 pip install -r requirements.in
 ```
 
-3. Run the project
+2. Run the project
 ```bash
 python flask_wrapper.py
 ```
