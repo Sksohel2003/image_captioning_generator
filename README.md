@@ -64,12 +64,6 @@ python flask_wrapper.py
 
 
 
-## Authors
-- [Sri Hari](https://github.com/gtbSrihari)
-- [Tarun Ganesh](https://github.com/tarunganesh2004)
-
-
-
 <!-- Markdown liks and Tags -->
 [python-shield]: https://img.shields.io/badge/Python-3.8.5-blue?style=for-the-badge&logo=python
 [python-url]: https://www.python.org/downloads/release/python-385/
